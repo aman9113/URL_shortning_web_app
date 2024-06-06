@@ -1,4 +1,5 @@
-#Updated one[ Aman Singh https://github.com/aman9113/] - Shortly URL shortening API Challenge
+Follow me [Aman Singh](https://github.com/aman9113/)
+ - Shortly URL shortening API Challenge
 
 ![Design preview for the Shortly URL shortening API coding challenge](./design/desktop-preview.jpg)
 
