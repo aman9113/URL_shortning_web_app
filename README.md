@@ -1,8 +1,6 @@
 Follow me [Aman Singh](https://github.com/aman9113/)
 Get in Touch +91 7355069113
 
-Follow me [Aman Singh](https://github.com/aman9113/)
-Get in Touch +91 7355069113
 
  - Shortly URL shortening API Challenge
 
